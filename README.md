@@ -16,8 +16,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 - 🌱 I am a Fullstack developer
 - 👯 I’m looking for something new or creating some project.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
-- 🏆 I'm also having a great interest in competitive programming.
+- 🏆 AI Application Architect focused on building production-grade AI agents with Java and TypeScript, backed by expertise in distributed systems, cloud-native platforms, model governance, evaluation, security, observability, and business delivery.
 - 📫 How to reach me: eden.opt@gmail.com
 
  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
